@@ -12,3 +12,4 @@ https://www.amazon.com/gp/product/B082WD1M7L/ref=ppx_yo_dt_b_search_asin_title?i
 
 https://en.wikipedia.org/wiki/SOLID
 
+https://github.com/CRC-IT/2019_FORCE_talk
